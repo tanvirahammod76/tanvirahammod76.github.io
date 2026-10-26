@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#6D3BE8"/>
+  <path d="M14 17h36v7H36v23h-8V24H14z" fill="#fff"/>
+  <path d="M39 38c3.4-7.5 6.1 7.5 9.5 0s6.1 7.5 9.5 0" fill="none" stroke="#FF9A79" stroke-linecap="round" stroke-width="3.5"/>
+  <text x="32" y="59" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="700" text-anchor="middle">TA</text>
+</svg>
